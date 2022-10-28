@@ -124,6 +124,9 @@ nav {
   display: flex;
   flex-direction: column;
 }
+.about-me__info--para {
+  margin: 0 80px;
+}
 .about-me__info--container {
   display: flex;
   flex-direction: column;
